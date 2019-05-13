@@ -1,0 +1,12 @@
+name: Coursera_hopkins_developing_data_products_wk4
+title: Coursera_hopkins_developing_data_products_wk4
+username:
+account: t-publish
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 925093
+bundleId: 2078459
+url: https://t-publish.shinyapps.io/Coursera_hopkins_developing_data_products_wk4/
+when: 1557670032.45945
+asMultiple: FALSE
+asStatic: FALSE
